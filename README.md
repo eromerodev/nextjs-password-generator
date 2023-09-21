@@ -1,0 +1,1 @@
+# nextjs-password-generator
